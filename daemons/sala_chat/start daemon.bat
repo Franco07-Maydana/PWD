@@ -1,0 +1,1 @@
+"C:\Program Files\xampp\php\php.exe" -q "C:\Program Files\xampp\daemons\sala_chat\SalaChatServer.php"
